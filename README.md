@@ -7,19 +7,20 @@ Sendo assim temos todas as funcionalizades para esta solução desde o Back-end,
 Foram utilizadas as melhores tecnologias do momento tais como: 
 <strong>NODE JS, REACT JS e REACT NATIVE</strong>
 
-Para a configuração baixa seguir os passos:
-Navege a até a pasta backend e rode os comandos:
+Para a configuração baixa seguir os passos:<br>
+Navege a até a pasta backend e rode os comandos:<br>
 <strong>npm install ou yarn install</strong>
 <strong>npm start ou yarn start</strong>
 
-Navege a até a pasta frontend e rode os comandos:
+Navege a até a pasta frontend e rode os comandos:<br>
 <strong>npm install ou yarn install</strong>
 <strong>npm start ou yarn start</strong>
 
-Navege a até a pasta mobile e rode os comandos:
+Navege a até a pasta mobile e rode os comandos:<br>
 <strong>npm install ou yarn install</strong>
 <strong>npm start ou yarn start</strong>
 
+<hr>
 Logo abaixo você encontrará como ficou está aplicação:
 
 <h3>Tela de logon (WEB)</h3>
