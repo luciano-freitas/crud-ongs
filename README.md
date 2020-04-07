@@ -9,15 +9,15 @@ Foram utilizadas as melhores tecnologias do momento tais como:
 
 Para a configuração baixa seguir os passos:<br>
 Navege a até a pasta backend e rode os comandos:<br>
-<strong>npm install ou yarn install</strong>
+<strong>npm install ou yarn install</strong><br>
 <strong>npm start ou yarn start</strong>
 
 Navege a até a pasta frontend e rode os comandos:<br>
-<strong>npm install ou yarn install</strong>
+<strong>npm install ou yarn install</strong><br>
 <strong>npm start ou yarn start</strong>
 
 Navege a até a pasta mobile e rode os comandos:<br>
-<strong>npm install ou yarn install</strong>
+<strong>npm install ou yarn install</strong><br>
 <strong>npm start ou yarn start</strong>
 
 <hr>
